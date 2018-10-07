@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+
+body {
+	text-align: center;
+	background: url("../img/bg.jpg");
+	width: 1000px;
+	height: 625px;
+}
+a{
+	font-size: 20px;
+	
+}
+
+    #title{
+    	padding-bottom:30px;
+    	font-size:30px;
+    	text-align: center;
+    	font-family: "楷体";
+    	font-weight: bold;
+    	/* border:solid 1px white; */
+    }
+     label{
+    	font-size: 18px;
+    	font-family: "仿宋";
+    	font-weight: bold; 
+    }
+#log {
+	width:600px;
+	position: absolute;
+	top:20%;
+	left:35%;
+/* 	border:solid 1px red; */
+}

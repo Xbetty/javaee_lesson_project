@@ -1,0 +1,18 @@
+			.top {
+				width: 33%;
+				float: left;
+				height: 50px;
+			}
+			
+			.menu {
+				width: 99%;
+				font-size: 15px;
+				background-color: black;
+				color: white;
+				height: 30px;
+
+			}
+			
+			.clear {
+				clear: both;
+			}
